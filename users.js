@@ -1,13 +1,64 @@
-export default {
+var users = {
 
-  var users = {
+    // 1:  {name: 'John egbert',
+    //     handle:  'username1'},
+    //
+    // 2:  {name: 'Rose Lalonde',
+    //     handle: 'username2',
+    //     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum debitis minima, totam quidem nam temporibus modi quisquam unde ipsam perspiciatis adipisci vitae excepturi laudantium eius voluptatibus sit esse eaque blanditiis.'},
+    //
+    // 3:  {name: 'Dave Strider',
+    //     handle: 'username3'}
 
-    1:  {name: 'John egbert',
-        handle:  'username1'},
-    2:  {name: 'Rose Lalonde',
-        handle: 'username2'}
 
-  }
-
-
+    '0': { name: 'rose lalonde', handle: 'username2' },
+      '1': { name: 'roxy lalonde', handle: 'username7' },
+      '2': { name: 'roxy lalonde', handle: 'username7' },
+      '3': { name: 'jake english', handle: 'username6' },
+      '4': { name: 'john egbert', handle: 'username1' },
+      '5': { name: 'rose lalonde', handle: 'username2' },
+      '6': { name: 'rose lalonde', handle: 'username2' },
+      '7': { name: 'dirk strider', handle: 'username8' },
+      '8': { name: 'roxy lalonde', handle: 'username7' },
+      '9': { name: 'jake english', handle: 'username6' },
+      '10': { name: 'dave strider', handle: 'username3' },
+      '11': { name: 'jade harley', handle: 'username4' },
+      '12': { name: 'jane crocker', handle: 'username5' },
+      '13': { name: 'john egbert', handle: 'username1' },
+      '14': { name: 'john egbert', handle: 'username1' },
+      '15': { name: 'rose lalonde', handle: 'username2' },
+      '16': { name: 'jake english', handle: 'username6' },
+      '17': { name: 'dave strider', handle: 'username3' },
+      '18': { name: 'jake english', handle: 'username6' },
+      '19': { name: 'dave strider', handle: 'username3' },
+      '20': { name: 'jade harley', handle: 'username4' },
+      '21': { name: 'jade harley', handle: 'username4' },
+      '22': { name: 'jake english', handle: 'username6' },
+      '23': { name: 'jane crocker', handle: 'username5' },
+      '24': { name: 'rose lalonde', handle: 'username2' },
+      '25': { name: 'jane crocker', handle: 'username5' },
+      '26': { name: 'dave strider', handle: 'username3' },
+      '27': { name: 'jake english', handle: 'username6' },
+      '28': { name: 'dave strider', handle: 'username3' },
+      '29': { name: 'dirk strider', handle: 'username8' },
+      '30': { name: 'dirk strider', handle: 'username8' },
+      '31': { name: 'jade harley', handle: 'username4' },
+      '32': { name: 'dirk strider', handle: 'username8' },
+      '33': { name: 'john egbert', handle: 'username1' },
+      '34': { name: 'dave strider', handle: 'username3' },
+      '35': { name: 'dirk strider', handle: 'username8' },
+      '36': { name: 'dirk strider', handle: 'username8' },
+      '37': { name: 'roxy lalonde', handle: 'username7' },
+      '38': { name: 'jade harley', handle: 'username4' },
+      '39': { name: 'rose lalonde', handle: 'username2' },
+      '40': { name: 'dave strider', handle: 'username3' },
+      '41': { name: 'jake english', handle: 'username6' },
+      '42': { name: 'dave strider', handle: 'username3' },
+      '43': { name: 'jake english', handle: 'username6' },
+      '44': { name: 'rose lalonde', handle: 'username2' },
+      '45': { name: 'roxy lalonde', handle: 'username7' },
+      '46': { name: 'jane crocker', handle: 'username5' },
+      '47': { name: 'john egbert', handle: 'username1' },
+      '48': { name: 'jane crocker', handle: 'username5' },
+      '49': { name: 'john egbert', handle: 'username1' }
 }
